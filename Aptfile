@@ -1,6 +1,5 @@
 libsm6
-libext6
-ffmpeg
 libxrender1
 libfontconfig1
 libice6
+libgl1
